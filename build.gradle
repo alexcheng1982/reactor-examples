@@ -10,7 +10,7 @@ repositories {
 
 dependencyManagement {
     imports {
-        mavenBom "io.projectreactor:reactor-bom:Aluminium-RELEASE"
+        mavenBom "io.projectreactor:reactor-bom:Aluminium-SR1"
     }
 }
 
