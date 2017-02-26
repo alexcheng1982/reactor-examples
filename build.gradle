@@ -17,4 +17,6 @@ dependencyManagement {
 dependencies {
     compile 'io.projectreactor:reactor-core'
     compile 'org.apache.commons:commons-lang3:3.5'
+    testCompile 'io.projectreactor.addons:reactor-test'
+    testCompile 'junit:junit:4.12'
 }
